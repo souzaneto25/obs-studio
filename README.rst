@@ -1,5 +1,17 @@
+OBS Studio — Dynamic Stream Delay Build (Unofficial)
+======================================================
+
+.. warning::
+
+   **This is an unofficial fork.**  Branch ``feat/dynamic-stream-delay`` adds
+   the Dynamic Stream Delay feature (anti-stream-sniping).  It is **not**
+   endorsed by or affiliated with the OBS Project.  See
+   `docs/dynamic-delay.md <docs/dynamic-delay.md>`_ for feature documentation.
+
+----
+
 OBS Studio <https://obsproject.com>
-===================================
+====================================
 
 .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master
    :alt: OBS Studio Build Status - GitHub Actions
